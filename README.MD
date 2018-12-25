@@ -12,7 +12,7 @@ https://github.com/ornicar/lila/
 
 TODO
 ----
-* On click Reset, the mousedown event handler disappears on .piece class and it's not possible to move pieces.
+(DONE) * On click Reset, the mousedown event handler disappears on .piece class and it's not possible to move pieces.
 
 --------------------
 xtoni, December 2018.
