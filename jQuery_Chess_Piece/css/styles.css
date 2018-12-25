@@ -1,0 +1,35 @@
+/***** SCSS   *****/
+#board {
+  background: url("../images/board.svg") no-repeat;
+  height: 480px;
+  width: 480px;
+  background-color: lightgrey;
+  position: relative; }
+
+#wP {
+  background: url("../images/piece/alpha/wP.svg") no-repeat; }
+
+#wR {
+  background: url("../images/piece/alpha/wR.svg") no-repeat; }
+
+#wN {
+  background: url("../images/piece/alpha/wN.svg") no-repeat; }
+
+#wB {
+  background: url("../images/piece/alpha/wB.svg") no-repeat; }
+
+#wQ {
+  background: url("../images/piece/alpha/wQ.svg") no-repeat; }
+
+#wK {
+  background: url("../images/piece/alpha/wK.svg") no-repeat; }
+
+.piece {
+  height: 60px;
+  width: 60px;
+  background-size: 60px 60px;
+  border: 1px solid grey;
+  box-sizing: border-box;
+  position: absolute; }
+
+/*# sourceMappingURL=styles.css.map */
